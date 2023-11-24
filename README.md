@@ -13,7 +13,7 @@ ScreenLiveView is a dynamic, real-time screen capture tool comprising a C# clien
 
 The compiled versions are available to download.
 
-# Client
+### Client
 - Download and extract the ScreenLiveViewClient.zip
 - Open sever.txt and change the IP address to the server which will be accepting the screenshots
 - Run ScreenLiveViewClient.exe
@@ -21,7 +21,7 @@ Note: The client window runs in the background. I you would like to see output f
 
 The client is now running in the background.
 
-# Server
+### Server
 - Download and extract the ScreenLiveViewServer.zip
 - Run ScreenLiveViewServer.zip
 
