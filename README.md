@@ -25,4 +25,4 @@ The client is now running in the background.
 - Download and extract the ScreenLiveViewServer.zip
 - Run ScreenLiveViewServer.zip
 
-The serer is now running. Navigate to http://127.0.0.1:3000 in a web browser to view a live screenshot of the connected client. A screeshot of the client's active window should be shown in the web browser.
+The server is now running. Navigate to http://127.0.0.1:3000 in a web browser to view a live screenshot of the connected client. A screeshot of the client's active window should be shown in the web browser.
