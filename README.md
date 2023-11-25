@@ -15,7 +15,7 @@ The compiled versions are available to download.
 
 ### Client
 - Download and extract the ScreenLiveViewClient.zip
-  https://github.com/Phantom-Circuit/ScreenViewLive/blob/main/ScreenLiveViewClient.zip
+  <br>https://github.com/Phantom-Circuit/ScreenViewLive/blob/main/ScreenLiveViewClient.zip
 - Open sever.txt and change the IP address to the server which will be accepting the screenshots
 - Run client.exe
 <br>Note: The client window runs in the background. I you would like to see output from the client executable for torubleshooting purposes run "cmd.exe ScreenLiveViewClient.exe"
@@ -24,7 +24,7 @@ The client is now running in the background.
 
 ### Server
 - Download and extract the ScreenLiveViewServer.zip
-  https://github.com/Phantom-Circuit/ScreenViewLive/blob/main/ScreenLiveViewServer.zip
+  <br?https://github.com/Phantom-Circuit/ScreenViewLive/blob/main/ScreenLiveViewServer.zip
 - Run ScreenLiveViewServer.exe
 
 The server is now running. Navigate to http://127.0.0.1:3000 in a web browser to view a live screenshot of the connected client. A screeshot of the client's active window should be shown in the web browser.
