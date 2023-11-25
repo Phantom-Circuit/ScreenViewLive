@@ -9,6 +9,10 @@ ScreenLiveView is a dynamic, real-time screen capture tool comprising a C# clien
 - **Live Web Interface**: View live screen captures via any web browser on port 3000.
 - **Easy to Set Up**: Simple setup process for both client and server.
 
+## Demo
+
+![hippo](https://github.com/Phantom-Circuit/ScreenViewLive/blob/main/deno.gif)
+
 ## Installation
 
 The compiled versions are available to download.
