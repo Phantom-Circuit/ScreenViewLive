@@ -23,6 +23,7 @@ The client is now running in the background.
 
 ### Server
 - Download and extract the ScreenLiveViewServer.zip
+  https://github.com/Phantom-Circuit/ScreenViewLive/blob/main/ScreenLiveViewServer.zip
 - Run ScreenLiveViewServer.zip
 
 The server is now running. Navigate to http://127.0.0.1:3000 in a web browser to view a live screenshot of the connected client. A screeshot of the client's active window should be shown in the web browser.
