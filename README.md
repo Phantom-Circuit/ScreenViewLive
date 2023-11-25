@@ -18,7 +18,7 @@ The compiled versions are available to download.
   <br>https://github.com/Phantom-Circuit/ScreenViewLive/blob/main/ScreenLiveViewClient.zip
 - Open sever.txt and change the IP address to the server which will be accepting the screenshots
 - Run client.exe
-<br>Note: The client window runs in the background. I you would like to see output from the client executable for torubleshooting purposes run "cmd.exe ScreenLiveViewClient.exe"
+<br>Note: The client window runs in the background. I you would like to see output from the client executable for torubleshooting purposes run "cmd.exe client.exe"
 
 The client is now running in the background.
 
